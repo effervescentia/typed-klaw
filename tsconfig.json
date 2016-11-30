@@ -1,0 +1,21 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "outDir": "out"
+  },
+  "exclude": [
+    "node_modules",
+    "out",
+    "source"
+  ],
+  "atom": {
+    "rewriteTsconfig": true,
+    "formatOnSave": true
+  },
+  "formatCodeOptions": {
+    "indentSize": 2,
+    "tabSize": 2
+  }
+}
