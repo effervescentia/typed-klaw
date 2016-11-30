@@ -31,10 +31,6 @@ declare namespace klaw {
   }
 }
 
-declare interface Klaw {
-  (root: string, options?: klaw.Options): klaw.Walker;
-}
-
-declare const klaw: Klaw;
+declare function klaw(root: string, options?: klaw.Options): klaw.Walker;
 
 export = klaw;
