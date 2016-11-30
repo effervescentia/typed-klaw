@@ -1,5 +1,5 @@
-# Typed Klaw  [![Build Status](https://travis-ci.org/effervescentia/typed-klaw.svg?branch=master)](https://travis-ci.org/effervescentia/typed-klaw)
-
+# Typed Klaw
+[![CircleCI](https://circleci.com/gh/effervescentia/typed-klaw.svg?style=svg)](https://circleci.com/gh/effervescentia/typed-klaw)
 
 The type definition for [`klaw`](https://github.com/jprichardson/node-klaw.git)
 
