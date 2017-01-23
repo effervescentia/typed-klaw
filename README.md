@@ -1,4 +1,6 @@
 # Typed Klaw
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/effervescentia/typed-klaw.svg)](https://greenkeeper.io/)
 [![CircleCI](https://circleci.com/gh/effervescentia/typed-klaw.svg?style=svg)](https://circleci.com/gh/effervescentia/typed-klaw)
 
 The type definition for [`klaw`](https://github.com/jprichardson/node-klaw.git)
